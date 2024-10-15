@@ -49,3 +49,4 @@ xgb_predictor.delete_endpoint()
 ```bash
 - pip install -r requirements.txt
 ```
+![img.png](img.png)
